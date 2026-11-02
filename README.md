@@ -18,16 +18,16 @@ The Power BI report contains the following views:
 ![Team Analysis](screenshots/team-analysis.png)
 
 ### Batsman Analysis
-![Batsman Analysis](screenshots/batsman-analysis.png)
+![Batsman Analysis](screenshots/Batsman-analysis.png)
 
 ### Player Performance Analysis
-![Player Performance Analysis](screenshots/player-performance.png)
+![Player Performance Analysis](screenshots/performance-analysis.png)
 
 ### Bowler Analysis
 ![Bowler Analysis](screenshots/bowler-analysis.png)
 
 ### Data Model
-![Power BI Data Model](screenshots/data-model.png)
+![Power BI Data Model](screenshots/model-view.png)
 
 ## Project Overview
 
